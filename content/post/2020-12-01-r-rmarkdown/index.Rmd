@@ -1,0 +1,25 @@
+---
+title: "Introduction"
+author: "Peiyu Li"
+date: '2020-12-01T21:13:14-05:00'
+bibliography: "references.bib"
+categories: R
+tags:
+- R Markdown
+- plot
+- regression
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Intro
+
+My Introduction
+
+# Citatation
+
+@citetidyverse
+
+# Reference
